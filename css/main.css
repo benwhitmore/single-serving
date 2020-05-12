@@ -37,16 +37,22 @@ img {
 p.overview {
   font-size: 20px;
   padding-top: 2em;
+  padding-left: 1em;
+  padding-right: 1em;
   font-family: "Times New Roman", Times, serif;
 }
 
 p {
   font-family: "Times New Roman", Times, serif;
+  padding-left: 1em;
+  padding-right: 1em;
 }
 
 h3 {
   font-family: "Times New Roman", Times, serif;
   font-weight: 500;
+  padding-left: 1em;
+  padding-right: 1em;
 }
 
 p.wiki-cite {
