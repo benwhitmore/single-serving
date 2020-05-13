@@ -39,18 +39,18 @@ p.overview {
   padding-top: 2em;
   padding-left: 1em;
   padding-right: 1em;
-  font-family: "Times New Roman", Times, serif;
+  font-family: 'IM Fell English SC', serif;
 }
 
 p {
-  font-family: "Times New Roman", Times, serif;
+  font-family: 'IM Fell English SC', serif;
   padding-left: 1em;
   padding-right: 1em;
 }
 
 h3 {
-  font-family: "Times New Roman", Times, serif;
-  font-weight: 500;
+  font-family: 'IM Fell English SC', serif;
+  font-weight: bold;
   padding-left: 1em;
   padding-right: 1em;
 }
